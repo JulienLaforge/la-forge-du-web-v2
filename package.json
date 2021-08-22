@@ -1,0 +1,20 @@
+{
+  "name": "la-forge-du-web-v2",
+  "version": "2.0.0",
+  "description": "Julien Laforge's portfolio.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "node.js",
+    "express",
+    "p5.js"
+  ],
+  "author": "Julien Laforge",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
